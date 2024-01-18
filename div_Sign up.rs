@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign up</name>
+   <tag></tag>
+   <elementGuidId>446c6945-2a2f-4968-a842-d90068fd04de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mweb-unauth-container']/div/div/div/div/div[2]/div[3]/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tBJ.dyH.iFc.sAJ.O2T.tg7.H2s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fab07b49-d2ce-4376-ba2d-767b25a17929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tBJ dyH iFc sAJ O2T tg7 H2s</value>
+      <webElementGuid>254d76ee-e2d2-49cb-9fac-1a50cb66f719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up</value>
+      <webElementGuid>6cdfedb8-5d56-407d-b69a-b24eab33915c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mweb-unauth-container&quot;)/div[@class=&quot;zI7 iyn Hsu&quot;]/div[@class=&quot;zI7 iyn Hsu&quot;]/div[@class=&quot;QLY _he zI7 iyn Hsu&quot;]/div[@class=&quot;Jea KS5 b8T fZz hs0 qDf urM zI7 iyn Hsu&quot;]/div[@class=&quot;Eqh KS5 hs0 un8 C9i TB_&quot;]/div[@class=&quot;zI7 iyn Hsu&quot;]/button[@class=&quot;RCK Hsu USg adn CCY NTm KhY oRi lnZ wsz YbY&quot;]/div[@class=&quot;RCK Hsu USg adn CCY NTm KhY S9z Vxj aZc Zr3 hA- a_A gpV hNT BG7 hDj _O1 KS5 mQ8 Tbt L4E&quot;]/div[@class=&quot;tBJ dyH iFc sAJ O2T tg7 H2s&quot;]</value>
+      <webElementGuid>958c07e0-9c63-4d61-934d-b637d72b1b08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mweb-unauth-container']/div/div/div/div/div[2]/div[3]/button/div/div</value>
+      <webElementGuid>3d07e38f-1c8c-4b14-8164-26061d172eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/div/div</value>
+      <webElementGuid>96f5850b-125f-4aec-92ba-1882560a5f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign up' or . = 'Sign up')]</value>
+      <webElementGuid>c48705da-526b-471e-ac36-b54133568dce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

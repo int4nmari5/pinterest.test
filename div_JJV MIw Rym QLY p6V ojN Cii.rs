@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JJV MIw Rym QLY p6V ojN Cii</name>
+   <tag></tag>
+   <elementGuidId>9e11db06-aab4-42be-90ef-61c72481aad1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.JJV.MIw.Rym.QLY.p6V.ojN.Cii</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>466206d4-7871-475b-a1be-5876e83fb544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>JJV MIw Rym QLY p6V ojN Cii</value>
+      <webElementGuid>fc0665c3-bfc5-4f3b-9e1e-18e6da199c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;id&quot;]/body[1]/div[@class=&quot;NIm MIw QLY Rym&quot;]/div[1]/div[1]/div[@class=&quot;Fwt _he Hsu _O1 mQ8 Rym QLY KS5 L4E&quot;]/div[@class=&quot;JJV MIw Rym QLY p6V ojN Cii&quot;]</value>
+      <webElementGuid>520d3b4e-1680-47b5-9a28-f1a864d60179</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>5dfd4210-745a-4d83-9936-10199bc7516a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

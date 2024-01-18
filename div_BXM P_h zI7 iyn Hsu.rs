@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BXM P_h zI7 iyn Hsu</name>
+   <tag></tag>
+   <elementGuidId>af7f99f3-d259-4b93-8a43-a01d0a32811a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div[4]/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8413f20-a193-47a9-bb28-51e97a22a9e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BXM P_h zI7 iyn Hsu</value>
+      <webElementGuid>0774f455-4c2d-46b8-819b-a7012da41fa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;id&quot;]/body[1]/div[@class=&quot;NIm MIw QLY Rym&quot;]/div[1]/div[1]/div[@class=&quot;Fwt _he Hsu _O1 mQ8 Rym QLY KS5 L4E&quot;]/div[@class=&quot;ZHw XiG XbT _O1 SpV ho- rDA jar CCY&quot;]/div[@class=&quot;Jea XiG jzS ujU zI7 iyn Hsu&quot;]/div[@class=&quot;XbT XiG lnZ ujU wsz zI7 iyn Hsu&quot;]/div[@class=&quot;Jea XiG jzS zI7 iyn Hsu&quot;]/div[@class=&quot;ujU zI7 iyn Hsu&quot;]/div[@class=&quot;jzS un8 C9i TB_&quot;]/div[@class=&quot;Cii ujU wYR zI7 iyn Hsu&quot;]/div[@class=&quot;Jea XBe iD5 kzZ zI7 iyn Hsu&quot;]/div[@class=&quot;C9q Shl zI7 iyn Hsu&quot;]/div[@class=&quot;Jea KS5 LJB Pw5 XgI ho- mQ8 urM zI7 iyn Hsu&quot;]/div[@class=&quot;sLG zI7 iyn Hsu&quot;]/div[@class=&quot;F6l Uex XBe k1A zI7 iyn Hsu&quot;]/div[@class=&quot;Pj7 sLG XiG ho- m1e&quot;]/div[@class=&quot;FNs XiG ho- zI7 iyn Hsu&quot;]/div[@class=&quot;CCY S9z eEj oCZ Tbt L4E e8F BG7&quot;]/div[@class=&quot;XiG zI7 iyn Hsu&quot;]/div[@class=&quot;MIw QLY Rym ojN p6V sLG zI7 iyn Hsu&quot;]/div[@class=&quot;BXM P_h zI7 iyn Hsu&quot;]</value>
+      <webElementGuid>f2a79ba3-a07d-46ea-9cd1-196c93d25b1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>bf9afa18-4b76-428a-a27d-27486d43ddc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
